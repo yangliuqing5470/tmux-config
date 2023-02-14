@@ -10,7 +10,7 @@ git clone https://github.com/tmux-plugins/tpm.git ~/.tmux/plugins/tpm
 # 使用方式
 ## 下载配置文件
 ```bash
-https://github.com/yangliuqing5470/tmux-config.git ~/.tmux-config
+git clone https://github.com/yangliuqing5470/tmux-config.git ~/.tmux-config
 ```
 ## 创建一个会话
 ```bash
